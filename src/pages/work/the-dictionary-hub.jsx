@@ -88,12 +88,12 @@ function TheDictionaryHub() {
         </h1>
 
         <a
-          href="https://dictionary.chriswebsite.page"
+          href="https://dictionary.chriskwok.dev"
           target="_blank"
           rel="noreferrer"
           className="text-blue-500"
         >
-          dictionary.chriswebsite.page
+          dictionary.chriskwok.dev
         </a>
       </div>
     </div>

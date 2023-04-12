@@ -82,12 +82,12 @@ function TheDictionaryHub() {
         </h1>
 
         <a
-          href="https://eloquent-moonbeam-8b84d0.netlify.app/"
+          href="https://vocabgen.chriskwok.dev"
           target="_blank"
           rel="noreferrer"
           className="text-blue-500"
         >
-          https://eloquent-moonbeam-8b84d0.netlify.app/
+          vocabgen.chriskwok.dev
         </a>
       </div>
     </div>

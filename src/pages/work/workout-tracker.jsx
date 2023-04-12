@@ -82,12 +82,12 @@ function WorkoutTracker() {
         </h1>
 
         <a
-          href="https://ornate-taffy-4a8ec2.netlify.app/"
+          href="https://workout.chriskwok.dev"
           target="_blank"
           rel="noreferrer"
           className="text-blue-500"
         >
-          https://ornate-taffy-4a8ec2.netlify.app/
+          workout.chriskwok.dev
         </a>
       </div>
     </div>
